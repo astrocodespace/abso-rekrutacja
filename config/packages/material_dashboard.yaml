@@ -1,0 +1,12 @@
+material_dashboard:
+  menu_header:
+    title: Rekrutacja Absolvent
+    anchor: /
+  sidebar_background: /bundles/materialdashboard/img/sidebar-1.jpg
+  color: azure
+  menu:
+    company_index:
+      label: Companies
+      icon: dashboard
+      parameters:
+        - { name: language, value: en }

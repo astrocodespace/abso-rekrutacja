@@ -511,6 +511,9 @@
     "twig/twig": {
         "version": "v3.2.1"
     },
+    "webbamboo/material-dashboard-symfony": {
+        "version": "1.0.9"
+    },
     "webmozart/assert": {
         "version": "1.9.1"
     }
